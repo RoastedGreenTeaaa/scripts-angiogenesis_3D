@@ -1,4 +1,4 @@
 ## Code Usage <br>
-This is a collection of customized scripts C used for analysis of cell motility in [sakai et al., 2023](https://www.researchsquare.com/article/rs-3055270/v1). 
+This is a collection of customized scripts C used for analysis of cell motility in [Sakai et al., 2023](https://www.researchsquare.com/article/rs-3055270/v1). 
 To perform Simulation A, you will need to execute the file `mainA.c`. Similarly, to carry out Simulation B, run the file `mainB.c`.
 Please kindly cite our paper if you used them in your work.
